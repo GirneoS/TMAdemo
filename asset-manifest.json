@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TMAdemo/static/css/main.fa1b8dc8.css",
+    "main.js": "/TMAdemo/static/js/main.36f34f87.js",
+    "static/js/453.ed3810f9.chunk.js": "/TMAdemo/static/js/453.ed3810f9.chunk.js",
+    "static/media/ava.jpg": "/TMAdemo/static/media/ava.430c4948e4266e3c0c8f.jpg",
+    "index.html": "/TMAdemo/index.html",
+    "main.fa1b8dc8.css.map": "/TMAdemo/static/css/main.fa1b8dc8.css.map",
+    "main.36f34f87.js.map": "/TMAdemo/static/js/main.36f34f87.js.map",
+    "453.ed3810f9.chunk.js.map": "/TMAdemo/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa1b8dc8.css",
+    "static/js/main.36f34f87.js"
+  ]
+}
